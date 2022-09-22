@@ -1,2 +1,2 @@
-public class TarimKrediManager extends BaseKrediManager{
+public class TarimKrediManager extends BaseKrediManager {
 }
